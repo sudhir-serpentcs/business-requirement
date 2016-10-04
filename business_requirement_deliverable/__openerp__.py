@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # © 2016 Elico Corp (https://www.elico-corp.com).
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+
 {
     'name': 'Business Requirement Deliverable',
     'category': 'Business Requirements Management',
@@ -8,7 +9,7 @@
                 Resources for your customers',
     'version': '9.0.1.0.0',
     'website': 'www.elico-corp.com',
-    "author": "Elico Corp, Odoo Community Association (OCA)",
+    'author': 'Elico Corp, Odoo Community Association (OCA)',
     'depends': [
         'account',
         'business_requirement',
